@@ -1,0 +1,50 @@
+{
+  "brand": "OLUKE",
+  "title": "OLUKE — Gadgets e Jogos",
+  "heroTitle": "As melhores ofertas de tecnologia em um só lugar.",
+  "heroText": "Celulares, fones, controles, carregadores, notebooks e muito mais. Eu seleciono ofertas e produtos que valem a pena ficar de olho, reunindo aqui achados de tecnologia e eletrônicos para você encontrar bons preços sem perder tempo.",
+  "stats": [
+    {
+      "value": "6 Mil",
+      "label": "seguidores"
+    },
+    {
+      "value": "muitos",
+      "label": "produtos testados"
+    },
+    {
+      "value": "9.5/10",
+      "label": "nota média dos indicados"
+    }
+  ],
+  "youtube": "#",
+  "instagram": "#",
+  "tiktok": "#",
+  "contact": "#",
+  "subscribeLink": "#",
+  "disclosure": "Este site contém links de afiliado. Ao comprar por eles, o canal pode receber uma comissão, sem custo extra para você.",
+  "socials": {
+    "foto": "assets/oluke.jpg",
+    "usuario": "@oluke",
+    "youtube": {
+      "nome": "YouTube",
+      "usuario": "@OLUKE.F",
+      "link": "https://youtube.com/@OLUKE.F"
+    },
+    "instagram": {
+      "nome": "Instagram",
+      "usuario": "@oluke.skull",
+      "link": "https://www.instagram.com/oluke.skull?stkn=MTQ4czZhOXJwN3FkNQ=="
+    },
+    "tiktok": {
+      "nome": "TikTok",
+      "usuario": "@oluke28",
+      "link": "https://www.tiktok.com/@oluke28"
+    },
+    "contact": {
+      "nome": "Contato",
+      "usuario": "Fale comigo",
+      "link": "mailto:seuemail@email.com"
+    }
+  }
+}
